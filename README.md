@@ -8,6 +8,9 @@
 
 - 🔭 &nbsp; I’m stduying at **universitas negeri padang**;
 - 🤝 &nbsp; I want to gain experience with my comrades in arms;
-- 🌱 &nbsp; I’m learning c language <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+- 🌱 &nbsp; I’m learning c language 
 - 👨🏻‍💻 &nbsp; this account is where my algorithm program is gathered;
 <br>
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
