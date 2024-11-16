@@ -6,8 +6,8 @@
 
   ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m stduying at **universitas negeri padang**
-- 🤝 &nbsp; I want to gain experience with my comrades in arms
+- 🔭 &nbsp; I’m stduying at **universitas negeri padang**;
+- 🤝 &nbsp; I want to gain experience with my comrades in arms;
 - 🌱 &nbsp; I’m learning c language ; 
-- 👨🏻‍💻 &nbsp; this account is where my algorithm program is gathered
+- 👨🏻‍💻 &nbsp; this account is where my algorithm program is gathered;
 <br>
