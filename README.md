@@ -80,3 +80,12 @@ switch case ➡️another form of if/else/if branching<br>
 if else ➡️ branching that has two select blocks.<br>
 
 ### modul 8
+The program uses functions
+Functions are sub-programs that can be reused either within
+the program itself, as well as in other programs.
+An example of a function that we often create is the main() function.
+This function is mandatory in every C program because it will be executed
+first time.
+
+-The function used is the int function
+-and also uses switch case, if/else, and arithmetic operators
