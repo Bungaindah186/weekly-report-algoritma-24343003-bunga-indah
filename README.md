@@ -97,3 +97,11 @@ memory (RAM).<br>
 - and uses a while loop ➡️ a type of looping statement in the C programming language which is used to run a block of code repeatedly as long as a certain condition evaluates to true.<br>
 - for loop ➡️ is a type of looping statement in the C programming language which is used to repeat the execution of a block of code with a known or predictable number of iterations.<br>
 
+### modul 10
+The program uses:<br>
+- do while loop ➡️ a type of looping statement in the C language that is used to run a block of code at least once, and then repeat as long as a certain condition is met<br>
+- An if/else branch is a branch that has two choice blocks.<br>
+- and also use include time to use the srand function<>br
+
+### modul 11
+
