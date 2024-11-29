@@ -21,7 +21,62 @@ Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images
 
 ##  🔮 explanation!!!
 
-### modul1
+### modul 1
 in the program uses the function:<br>
 printf = to print (output) data to the computer screen<br>
 The program prints 'hello world' which has been entered by the user using the printf function
+
+### modul 2
+Module 2
+The program uses the printf function to print data and scanf to read user inputted data<br>
+The program also uses data types:<br>
+Char ➡️ to store one single character<br>. 
+Integer ➡️ to store whole numbers.<br>
+
+### modul 3
+The program uses data types, constants, and variables<br> 
+task31 ➡️ uses integer data type (to store integers) <br>
+​task32 ➡️ uses the float data type (to store fractional numbers) <br> 
+​task33 ➡️ use float and constant data types (to define values ​​that cannot be changed during program execution) <br>
+
+### modul 4
+The program in module 4 uses arithmetic operators➡️ operators which are used for operations 
+mathematics <br>
+➕(summation)<br>
+➖(subtraction)<br>
+➗(division)<br>
+✖️(multiplication)<br>
+% (remaining quotient)<br>
+### modul 5
+The program in module 5 uses flow control switch case, if/else, and else if:<br>
+- An if/else branch is a branch that has two choice blocks. <br>
+- An if/else/if branch is a branch that has more than two choice blocks.<br>
+The first option block is for the true condition, and the second option is for the condition 
+wrong (else).<br>
+- Switch case branching is another form of if/else/if branching <br>
+
+### modul 6
+In tasks 61,62,63 ➡️ use a for loop to create a star pattern program
+The for loop is a repetition that is included in the couted loop, 
+because it was clear how many times he would repeat it<br>
+Task 64 ➡️
+in that program<br>
+Using switch case loops and if/else/if loops:<br>
+
+- An if/else/if branch is a branch that has more than two 
+selection block<br>
+- The first option block is for the true condition, and the second option is for the condition 
+wrong (else).<br>
+- Switch case branching is another form of if/else/if branching.<br>
+
+### modul 7
+This program uses Arrays. Arrays are data structures used for storing 
+a collection of data in one place, this array is also called an array. 
+Each data in the Array has an index, so we will have it easy 
+processing it such as accessing or changing the data.
+And also use: <br>
+constant ➡️ to define values ​​that cannot be changed during program execution<br>
+switch case ➡️another form of if/else/if branching<br>
+if else ➡️ branching that has two select blocks.<br>
+
+### modul 8
