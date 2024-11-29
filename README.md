@@ -98,7 +98,12 @@ memory (RAM).<br>
 - for loop ➡️ is a type of looping statement in the C programming language which is used to repeat the execution of a block of code with a known or predictable number of iterations.<br>
 
 ### modul 10
-The program uses:<br>
+The program use 
+- Structure or struct is a collection of several variables with various variations
+data types wrapped in one variable.<br>
+- typedef struct keyword to define a new data type.<br>
+We can use this keyword in front of the struct to declare it
+as a new data type.<br>
 - do while loop ➡️ a type of looping statement in the C language that is used to run a block of code at least once, and then repeat as long as a certain condition is met<br>
 - An if/else branch is a branch that has two choice blocks.<br>
 - and also use include time to use the srand function<>br
