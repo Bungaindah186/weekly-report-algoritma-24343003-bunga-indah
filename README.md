@@ -85,7 +85,7 @@ Functions are sub-programs that can be reused either within
 the program itself, as well as in other programs.
 An example of a function that we often create is the main() function.
 This function is mandatory in every C program because it will be executed
-first time.
+first time.<br>
 
--The function used is the int function
--and also uses switch case, if/else, and arithmetic operators
+-The function used is the int function<br>
+-and also uses switch case, if/else, and arithmetic operators<br>
