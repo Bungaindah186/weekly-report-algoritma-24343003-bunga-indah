@@ -87,5 +87,5 @@ An example of a function that we often create is the main() function.
 This function is mandatory in every C program because it will be executed
 first time.<br>
 
--The function used is the int function<br>
--and also uses switch case, if/else, and arithmetic operators<br>
+- The function used is the int function<br>
+- and also uses switch case, if/else, and arithmetic operators<br>
