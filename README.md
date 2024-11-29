@@ -89,3 +89,11 @@ first time.<br>
 
 - The function used is the int function<br>
 - and also uses switch case, if/else, and arithmetic operators<br>
+
+### modul 9
+The program uses<br>
+- pointers/memory addresses➡️ to determine the location of data storage
+memory (RAM).<br>
+- and uses a while loop ➡️ a type of looping statement in the C programming language which is used to run a block of code repeatedly as long as a certain condition evaluates to true.<br>
+- for loop ➡️ is a type of looping statement in the C programming language which is used to repeat the execution of a block of code with a known or predictable number of iterations.<br>
+
