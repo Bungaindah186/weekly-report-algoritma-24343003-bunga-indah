@@ -19,7 +19,7 @@ Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images
 <h2 align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 
-## 🧐 explanation!!!
+##  🔮 explanation!!!
 
 ### modul1
 in the program uses the function:<br>
