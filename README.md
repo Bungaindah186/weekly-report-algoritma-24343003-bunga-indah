@@ -109,4 +109,9 @@ as a new data type.<br>
 - and also use include time to use the srand function<>br
 
 ### modul 11
+The program uses file handling to create a file and save it<br>
+The program uses a structure or struct which is a collection of several different variables
+data types wrapped in one variable,and void function.<br>
+do while loop ➡️ a type of looping statement in the C language that is used to run a block of code at least once, and then repeat as long as a certain condition is met.<br>
+An if/else branch is a branch that has two choice blocks.<br>
 
